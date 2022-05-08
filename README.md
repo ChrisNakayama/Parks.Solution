@@ -80,8 +80,6 @@ The API endpoints are the following:
 
 
 
-* A full list of all the parks: <details><summary>click for image</summary>![](https://localhost:5001/api/StateAndNatParks ) </details>
-```
 
 
 ## Known Bugs <a id="bugs"></a>
