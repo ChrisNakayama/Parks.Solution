@@ -78,32 +78,10 @@ The API enpoints are the following:
 - DELETE /api/StateAndNatParks/{id} (delete a specific park by id)
 ```
 
-Here are examples of available user queries:
 
-* A full list of all the parks: <details><summary>click for image</summary>![](PUT GITHUB ADDRESS HERE ) </details>
+
+* A full list of all the parks: <details><summary>click for image</summary>![](https://localhost:5001/api/StateAndNatParks ) </details>
 ```
-https://localhost:5001/api/StateAndNatParks
-```
-<br />&nbsp;<br />
-
-
-
-* Listing/Editing/Deleting a park by id:<details><summary>click for image</summary>![](HTTPS GITHUB DETAILS HERE) </details>
-
-```
-https://localhost:5001/api/StateAndNatParks/4
-```
-<br />&nbsp;<br />
-
-
-
-* Searching by parameter: <details><summary>click for image</summary>![](HTTPS GITHUB ENDPOINTS HERE) </details>
-
-```
-https://localhost:5001/api/StateAndNatParks?type=State%20Park
-```
-<br />&nbsp;<br />
-
 
 
 ## Known Bugs <a id="bugs"></a>
