@@ -69,7 +69,7 @@ This project uses <code>dotnet-ef --version 5.0.0</code> which I have globally i
 ## API Info/Endpoints <a id="api"></a>
 * Once the API is running, you can test the API endpoints on the index page: https://localhost:5001/index.html using Swagger.
 
-The API enpoints are the following:
+The API endpoints are the following:
 ```
 - GET /api/StateAndNatParks (returns a list of the state and national parks)
 - POST /api/StateAndNatParks (allows user to add new park to the database)
