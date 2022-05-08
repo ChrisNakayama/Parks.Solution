@@ -77,8 +77,8 @@ The API endpoints are the following:
 - PUT /api/StateAndNatParks/{id} (edit information about a specific park)
 - DELETE /api/StateAndNatParks/{id} (delete a specific park by id)
 ```
-
-
+Hit this link in Swagger to try out this API:
+https://localhost:5001/swagger/index.html
 
 
 
